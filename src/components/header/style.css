@@ -1,0 +1,36 @@
+.header{
+	position: relative;
+}
+.header .content-text{
+	text-align: center;
+}
+.header-menu{
+	position: absolute;
+	left: 0;
+	top: 100px;
+	letter-spacing: 1px;
+	font-family: 'Roboto mono', sans-serif;
+	list-style: none;
+	color: #626262;
+	text-transform: uppercase;
+}
+.header-menu li{
+	margin: 10px 0px;
+}
+#header-title{
+	font-size: 15vw;
+	font-weight: bold;
+	color: #212121;
+	font-family: 'Work Sans', sans-serif;
+	line-height: 0.9;
+	text-transform: uppercase;
+}
+#header-subtitle{
+	font-size: 12vw;
+	font-weight: 100;
+	color: #212121;
+	font-family: 'Roboto mono', sans-serif;
+	line-height: 0.9;
+	letter-spacing: 15px;
+	text-transform: uppercase;
+}

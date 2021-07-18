@@ -1,0 +1,10 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+    font-size: 24px;
+    letter-spacing: 1px;
+    font-family: 'Roboto mono', sans-serif;
+    color: #363636;
+    font-weight: 300;
+}
