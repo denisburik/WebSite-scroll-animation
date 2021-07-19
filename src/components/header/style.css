@@ -24,6 +24,7 @@
 	font-family: 'Work Sans', sans-serif;
 	line-height: 0.9;
 	text-transform: uppercase;
+	transition:color 500ms ease-in-out;
 }
 #header-subtitle{
 	font-size: 12vw;
@@ -33,4 +34,5 @@
 	line-height: 0.9;
 	letter-spacing: 15px;
 	text-transform: uppercase;
+	transition:color 500ms ease-in-out;
 }

@@ -7,7 +7,8 @@ import coding_2 from './img/coding2.jpeg';
 // Css
 import './style.css';
 
-export default function featured(){
+export default function Featured(){
+
     return(
         <section className="featured" data-scroll-section>
             <div className="featured-row-layout">

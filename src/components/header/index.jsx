@@ -8,7 +8,7 @@ import './style.css';
 export default function header(){
     return (
         <section className="header" data-scroll-section>
-            <ul className="header-menu"  data-scroll data-scroll-speed="-8" data-scroll-delay="0.05">
+            <ul className="header-menu"  data-scroll data-scroll-speed="-4" data-scroll-delay="0.05" data-scroll-call="bg-light" data-scroll-repeat>
                 <li>Inicio</li>
                 <li>Sobre</li>
                 <li>Projetos</li>

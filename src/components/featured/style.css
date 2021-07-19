@@ -7,9 +7,10 @@
     clip-path: inset(0% 0% 0% 0%);
 }
 
-.feature h6{
-    font-size: 22px;
+.featured h6{
+    font-size: 32px;
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 .featured-row-layout,
